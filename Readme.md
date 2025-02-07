@@ -1,1 +1,1 @@
-inicar projeto eco 
+Projeto vazio, os dados foram movidos pra outra pasta.
